@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360px"/>
 
-- 👨🏻‍💻 &nbsp; I’m currently working as a Full Stack Developer at [Renova Tu Vestidor](https://www.renovatuvestidor.com.ar/).
+- 👨🏻‍💻 &nbsp; Currently working as a Full Stack Developer at [Renova Tu Vestidor](https://www.renovatuvestidor.com.ar/).
 - 🎾 &nbsp; I'm a tennis player and a fan of the sport.
 - 👨🏻‍🎓 &nbsp; Currently studying Computer Science in [UADE](https://www.uade.edu.ar/).
 - 🎧 &nbsp; Podcasts and music are my go-to for relaxation.
