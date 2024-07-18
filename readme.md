@@ -13,7 +13,8 @@
 -  🧉 &nbsp;&nbsp; I get my energy from mate || coffee.
 
 <br>
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRFbtDEE8x2xqPlUNxkqDrR0Y0hMC2I70UtDVBmGQKxzJKyJAwZRinSRyf8sWrx153QtKdqiNki8uIPeWQW3Qhv5e46iA=w1739-h857" alt="Hiro The Shiba" style="height: 200px; width:200px; margin: 2em 5em"/>
+
+<img src="https://github.com/user-attachments/assets/4a44dee7-3373-44a0-92ea-0ad0dd1e736d" alt="Hiro The Shiba" style="height: 200px; width:200px; margin: 2em 5em"/>
 
 ### 🛠 &nbsp;Hiro (🦊) gets fed thanks to:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
